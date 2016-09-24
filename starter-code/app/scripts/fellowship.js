@@ -36,7 +36,7 @@ makeMiddleEarth();
 // Part 2
 
 function makeHobbits() {
-  // display an unordered list of hobbits in the shire (which is the second article tag on the page)
+  // display an unordered list of hobbits in the shire (which is the first article tag on the page)
   // give each hobbit a class of hobbit
 }
 
@@ -127,6 +127,6 @@ function weWantsIt() {
 
 function thereAndBackAgain() {
   // remove Gollum and the Ring from the document
-  // remove all the baddies from the document
+  // remove all the buddies from the document
   // Move all the hobbits back to the shire
 }
